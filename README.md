@@ -1,2 +1,2 @@
 # Optimizing-Adsorption-with-Ficus-Nitida-Charcoal
-Utilizing Polynomial Regression and XGBoost for Optimized Lignocellulosic Derivative Adsorption in Water Treatment with Ficus Nitida Activated Charcoal
+This project was done to powerfully participate in the TeqFest AI and Sustainable Development Goals Hackathon at the American University in Cairo (AUC). In these intensive 3 days (13 -->> 16 April) hackathon we are working on data collection, preprocessing the data, testing, and developing the model (mathematically and at the implementation level using Python). Finally, We came up with this humble project!
