@@ -3,4 +3,4 @@ This project was done to powerfully participate in the TeqFest AI and Sustainabl
 
 ![PipeLine](https://github.com/Abdullah-Elafifi/Optimizing-Adsorption-with-Ficus-Nitida-Charcoal/assets/60512049/d5c82a96-ea33-4608-9af5-d06982f6b125)
 A comprehensive overview of the proposed pipeline, explaining the different stages of analyzing the inputs, classifying, 
-finding the relation, and predicting the adsorption capacity of Ficus Nitida.
+finding the relation and predicting the adsorption capacity of Ficus Nitida.
